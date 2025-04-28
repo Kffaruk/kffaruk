@@ -1,6 +1,6 @@
+![Image](https://github.com/user-attachments/assets/1e8da5c8-e642-44bb-b1d0-b3fd80569204)
 ## 👋, I'm Omar Faruk
 ### I love Coding
-![Image](https://github.com/user-attachments/assets/1e8da5c8-e642-44bb-b1d0-b3fd80569204)
 
 Skills: HTML / CSS
 
