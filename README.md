@@ -1,5 +1,6 @@
 ### 👋, I'm Omar Faruk
 #### I love Coding
+<img align="right" alt="Coding" width="400" src="https://i.ibb.co.com/pbRFsxG/Untitled-design-1.gif">
 ![I love Coding](https://arturssmirnovs.github.io/github-profile-readme-generator/images/banner.png)
 
 I'm learning C programming
