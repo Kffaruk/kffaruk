@@ -1,5 +1,5 @@
 ![Image](https://github.com/user-attachments/assets/1e8da5c8-e642-44bb-b1d0-b3fd80569204)
-## I'm Omar Faruk
+<h1 align="center"> I'm Omar Faruk <br> <h3 align="center"> I love Coding</h3> </h1>
 ### I love Coding
 
 Skills: HTML / CSS
