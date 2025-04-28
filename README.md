@@ -1,6 +1,5 @@
 ### 👋, I'm Omar Faruk
 #### I love Coding
-<img align="right" alt="Coding" width="400" src="https://i.ibb.co.com/pbRFsxG/Untitled-design-1.gif">
 
 I'm learning C programming
 
