@@ -4,7 +4,7 @@
 
 ## 🚀 About Me
 
-- 🌱 I’m currently learning **C Programming & Python**
+- 🌱 I’m currently learning **C Programming**
 - 💻 Passionate about **Software Development**
 
 ## 📊 GitHub Stats & Streak
